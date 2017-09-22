@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LeafLoading">
+        <attr name="progress" format="integer"/>
+        <attr name="mplitudeDiaparity" format="integer"/>
+        <attr name="middleAmplitude" format="integer"/>
+        <attr name="leafFloatTime" format="integer"/>
+        <attr name="leafRotateTime" format="integer"/>
+    </declare-styleable>
+</resources>
